@@ -45,9 +45,9 @@ class KaveeshaSulakshana:
 
 <img src="https://cdn-icons-png.flaticon.com/256/25/25231.png" width="90" alt="Git Logo">
 <br><br>
-<p style="font-style:italic;font-weight:700">
+<p style="font-style:italic;font-weight:700"><i><b>
 Your right is to commit, never to the build result.<br>
-Commit regularly, and the build may succeed someday.
+Commit regularly, and the build may succeed someday.</b></i>
 </p>
 
 </div>
