@@ -25,6 +25,18 @@ class KaveeshaSulakshana:
         self.role        = "Software Engineer & AI Student"
         self.focus       = ["Computer Vision", "Deep Learning", "SDE"]
         self.open_to     = ["Full-time roles", "Hard problems"]
+
+    def tagline(self):
+            return "Building useful things, one commit at a time."
+
+    def __str__(self):
+        return f"{self.name} | {self.role}"
+
+if __name__ == "__main__":
+    me = KaveeshaSulakshana()
+    print(me)
+    print(me.tagline())
+
 ```
 
 ---
